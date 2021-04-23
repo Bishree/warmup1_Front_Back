@@ -1,7 +1,7 @@
 fn main() {
     //creat a function for the front back
     //creat new string
-    let word= String::from("a");
+    let word= String::from("ahmed");
     //pars the leters
     let word_capacity = word.capacity();
     if word_capacity > 1{
